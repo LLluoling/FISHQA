@@ -6,11 +6,14 @@ paper: https://www.ijcai.org/proceedings/2018/0590.pdf
 
 # Code Introduction 
 
- 1. preprocess_train.py / preprocess_test.py
- Preprocess training dataset/test dataset, remember to modify the dictionary, fiterwords based on your own datasets
- 2. train.py
+1. preprocess_train.py / preprocess_test.py
+Preprocess training dataset/test dataset, remember to modify the dictionary, fiterwords based on your own datasets
+
+2. train.py
 Set params based on your own datasets and train you own model
+
 3. test.py 
+
 4. view.py
 For simple attention visualization 
 
