@@ -1,0 +1,14 @@
+1. preprocess_train.py 
+preprocess training dataset, remember to modify the dictionary, fiterwords based on your own datasets
+
+2. preprocess_test.py
+preprocess test dataset
+
+3. train.py
+set params based on your own datasets and train you own model
+
+4. test.py 
+for test
+
+5.view.py
+for simple attention visualization 
