@@ -1,7 +1,4 @@
-## This is the simplified version of FISHQA model !
-
-# Paper web
-paper: https://www.ijcai.org/proceedings/2018/0590.pdf
+## This is the implementation of Beyond Polarity: Interpretable Financial Sentiment Analysis with Hierarchical Query-driven Attention, paper url:  https://www.ijcai.org/proceedings/2018/0590.pdf. This is a simplified version of FISHQA model !
 
 
 # Code Introduction 
