@@ -22,7 +22,7 @@ python train.py
 ```
 Set params based on your own datasets and train you own model
 
-### Step 3: Training model
+### Step 3: Test model
 ```bash
 python test.py 
 ```
