@@ -20,6 +20,9 @@ Remember to modify the dictionary, fiterwords based on your own datasets.
 ```bash
 python train.py
 ```
+```bash
+cd FISHQA/code
+```
 Set params based on your own datasets and train you own model
 
 ### Step 3: Test model
